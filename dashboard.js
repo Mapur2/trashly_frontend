@@ -1,7 +1,7 @@
 document.getElementById("logout")?.addEventListener("click", () => {
   console.log("logout");
   localStorage.clear()
-    window.location.href = "/trashly_frontend//index.html"
+    window.location.href = "https://mapur2.github.io/trashly_frontend/index.html"
 });
 
 //console.log(localStorage.getItem("userid"))
